@@ -1,0 +1,59 @@
+[I 19:39:53.282 NotebookApp] Serving notebooks from local directory: /Users/daniel.tomes/Documents/Dev/learningPython
+[I 19:39:53.282 NotebookApp] 0 active kernels 
+[I 19:39:53.282 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=a6e67b87e04754b9672163d49fcee045c71664dfb41fed7c
+[I 19:39:53.282 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:39:53.285 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a6e67b87e04754b9672163d49fcee045c71664dfb41fed7c
+[I 19:39:53.690 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 19:40:01.385 NotebookApp] Kernel started: 3fd79560-9501-4156-a4b9-3dd3b0826611
+[W 19:40:01.433 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 9.08ms referer=http://localhost:8888/notebooks/Scripts/Exploring_Movies_IMDB.ipynb
+[I 19:42:01.374 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[I 19:42:19.903 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[C 19:42:27.217 NotebookApp] received signal 15, stopping
+[I 19:42:27.221 NotebookApp] Shutting down kernels
+[I 19:42:27.747 NotebookApp] Kernel shutdown: 3fd79560-9501-4156-a4b9-3dd3b0826611
+[I 17:52:31.341 NotebookApp] Serving notebooks from local directory: /Users/daniel.tomes/Documents/Dev/learningPython
+[I 17:52:31.343 NotebookApp] 0 active kernels 
+[I 17:52:31.343 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=332c92c0d552c2dc91c425e225bc36306e89b8b5de773e69
+[I 17:52:31.343 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:52:31.347 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=332c92c0d552c2dc91c425e225bc36306e89b8b5de773e69
+[I 17:52:31.723 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 17:52:39.145 NotebookApp] Kernel started: 0fa040c6-30ed-4c2a-a721-c2b477f9396e
+[W 17:52:39.156 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 7.86ms referer=http://localhost:8888/notebooks/Scripts/Exploring_Movies_IMDB.ipynb
+[I 17:54:39.123 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[I 17:55:11.244 NotebookApp] Kernel interrupted: 0fa040c6-30ed-4c2a-a721-c2b477f9396e
+[I 17:55:18.581 NotebookApp] Kernel shutdown: 0fa040c6-30ed-4c2a-a721-c2b477f9396e
+[I 17:55:20.796 NotebookApp] Creating new notebook in /Scripts
+[I 17:55:21.572 NotebookApp] Kernel started: edf5c399-0919-4524-94bd-d0440e3caa47
+[W 17:55:21.786 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.04ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 17:57:21.572 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 17:59:21.571 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 18:01:21.568 NotebookApp] Saving file at /Scripts/Pandas_GroupBy.ipynb
+[I 18:03:21.567 NotebookApp] Saving file at /Scripts/Pandas_GroupBy.ipynb
+[I 18:05:21.565 NotebookApp] Saving file at /Scripts/Pandas_GroupBy.ipynb
+[I 18:06:06.550 NotebookApp] Kernel shutdown: edf5c399-0919-4524-94bd-d0440e3caa47
+[I 18:06:12.476 NotebookApp] Creating new notebook in /Scripts
+[I 18:06:13.237 NotebookApp] Kernel started: 794920a5-9610-4bf2-a1b6-f1b9e4f04026
+[W 18:06:13.458 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.52ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 18:06:47.130 NotebookApp] Kernel started: bfd73f45-475f-4e2b-9568-9eab1ecad093
+[W 18:06:47.339 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.87ms referer=http://localhost:8888/notebooks/Scripts/Exploring_Movies_IMDB.ipynb
+[I 18:08:13.783 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 18:08:47.137 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[I 18:10:47.134 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[I 18:14:47.130 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[I 18:16:47.128 NotebookApp] Saving file at /Scripts/Exploring_Movies_IMDB.ipynb
+[I 18:17:47.838 NotebookApp] Kernel shutdown: bfd73f45-475f-4e2b-9568-9eab1ecad093
+[I 18:18:13.227 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:20:13.224 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:32:13.749 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:34:13.207 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:36:13.745 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:38:13.203 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:39:18.104 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
