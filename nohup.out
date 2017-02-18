@@ -57,3 +57,133 @@
 [I 18:36:13.745 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
 [I 18:38:13.203 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
 [I 18:39:18.104 NotebookApp] Saving file at /Scripts/Pandas_MissingVals.ipynb
+[I 18:52:11.417 NotebookApp] Kernel shutdown: 794920a5-9610-4bf2-a1b6-f1b9e4f04026
+[I 18:52:24.012 NotebookApp] Creating new notebook in /Scripts
+[I 18:52:24.997 NotebookApp] Kernel started: 67f83d6d-e9c3-4e3b-8aa6-e64280ee38b9
+[W 18:52:25.005 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.80ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 18:52:56.597 NotebookApp] Kernel started: c687122c-0474-4abe-bb55-e5aed454d51b
+[W 18:52:56.663 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.72ms referer=http://localhost:8888/notebooks/Scripts/Pandas_GroupBy.ipynb
+[I 18:54:24.999 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 18:56:24.993 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 18:58:24.989 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:00:24.986 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:02:24.986 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:04:24.983 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:06:24.980 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:08:25.698 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:10:24.975 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:12:24.972 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:14:24.970 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:16:24.966 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:18:25.688 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:20:24.961 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:21:19.844 NotebookApp] Kernel started: f31e4b19-d578-4168-b2c1-02dc2eb8a585
+[W 19:21:19.858 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.92ms referer=http://localhost:8888/notebooks/Scripts/Pandas_MissingVals.ipynb
+[I 19:21:54.422 NotebookApp] Kernel shutdown: c687122c-0474-4abe-bb55-e5aed454d51b
+[I 19:22:24.963 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:24:24.957 NotebookApp] Saving file at /Scripts/Pandas_Filtering.ipynb
+[I 19:25:00.403 NotebookApp] Kernel shutdown: 67f83d6d-e9c3-4e3b-8aa6-e64280ee38b9
+[I 19:25:06.351 NotebookApp] Kernel shutdown: f31e4b19-d578-4168-b2c1-02dc2eb8a585
+[I 19:25:21.472 NotebookApp] Kernel started: 8731f404-6ba3-4439-abe0-bf0ba0cf19fc
+[W 19:25:21.655 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.12ms referer=http://localhost:8888/notebooks/Scripts/Pandas_MissingVals.ipynb
+[I 19:25:28.519 NotebookApp] Kernel shutdown: 8731f404-6ba3-4439-abe0-bf0ba0cf19fc
+[I 19:25:31.384 NotebookApp] Creating new notebook in /Scripts
+[I 19:25:31.975 NotebookApp] Kernel started: 83379a1e-5ef1-4185-a92e-a7cd1226718d
+[W 19:25:32.080 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.38ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 19:27:31.975 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 19:29:31.971 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 19:31:31.967 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 19:33:31.965 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 19:35:31.964 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 19:37:31.959 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 19:37:46.842 NotebookApp] Kernel started: d0123203-f4f8-4b31-854a-7439aa3fd385
+[W 19:37:46.872 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.82ms referer=http://localhost:8888/notebooks/Scripts/Pandas_Filtering__Indexed_Joins.ipynb
+[I 19:39:46.850 NotebookApp] Saving file at /Scripts/Pandas_Filtering__Indexed_Joins.ipynb
+[I 19:41:25.647 NotebookApp] Saving file at /Scripts/Pandas_Filtering__Indexed_Joins.ipynb
+[I 19:43:32.655 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 19:47:31.946 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 19:49:31.945 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 19:51:32.641 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 19:53:31.941 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 19:55:31.937 NotebookApp] Saving file at /Scripts/Pandas_Selecting_Datasets.ipynb
+[I 20:03:09.527 NotebookApp] Creating new file in /Scripts
+[W 20:03:27.536 NotebookApp] delete /Scripts/untitled.txt
+[I 20:03:30.139 NotebookApp] Creating new notebook in /Scripts
+[I 20:03:31.274 NotebookApp] Kernel started: e03d16dc-e53e-4335-84c5-cff7cd094576
+[W 20:03:31.330 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.83ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 20:05:31.275 NotebookApp] Saving file at /Scripts/General_Notes.ipynb
+[I 20:20:46.252 NotebookApp] Kernel shutdown: e03d16dc-e53e-4335-84c5-cff7cd094576
+[I 20:20:46.773 NotebookApp] Kernel shutdown: 83379a1e-5ef1-4185-a92e-a7cd1226718d
+[I 20:20:47.294 NotebookApp] Kernel shutdown: d0123203-f4f8-4b31-854a-7439aa3fd385
+[I 20:21:15.374 NotebookApp] Creating new notebook in /Scripts
+[I 20:21:16.113 NotebookApp] Kernel started: 439408bd-1f11-46a3-8c12-900e2bef27d2
+[W 20:21:16.314 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.53ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[W 20:21:55.024 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.48ms referer=http://localhost:8888/notebooks/Scripts/Exploring_Movies_IMDB.ipynb
+[I 20:21:55.351 NotebookApp] Kernel started: 96aecd48-d40a-4ba4-8335-4fcc80efc254
+[I 20:23:16.116 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:25:16.111 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:27:16.106 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:29:16.104 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:31:16.103 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:33:16.098 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:35:16.098 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:37:16.096 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:39:16.093 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:41:16.087 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:43:16.088 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:45:16.084 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:47:16.081 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:48:28.554 NotebookApp] Kernel shutdown: 439408bd-1f11-46a3-8c12-900e2bef27d2
+[I 20:48:32.037 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:48:34.069 NotebookApp] Saving file at /Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[W 20:48:36.610 NotebookApp] Session not found: session_id='41135d59-60c5-49ca-9461-6bdd4c185617'
+[W 20:48:36.610 NotebookApp] 404 DELETE /api/sessions/41135d59-60c5-49ca-9461-6bdd4c185617 (::1) 1.15ms referer=http://localhost:8888/notebooks/Scripts/Pandas_Analyzing_ResourceFootprints.ipynb
+[I 20:48:45.438 NotebookApp] Creating new notebook in /Scripts
+[I 20:48:46.631 NotebookApp] Kernel started: 90ac4f4d-72a7-4eaa-82c9-5f5d846641ff
+[W 20:48:46.686 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.58ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 20:50:46.633 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 20:52:47.563 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 20:57:34.550 NotebookApp] Saving file at /Scripts/General_Notes.ipynb
+[I 20:59:34.547 NotebookApp] Saving file at /Scripts/General_Notes.ipynb
+[I 21:00:46.623 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:02:46.615 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:04:46.612 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:06:46.608 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:08:16.037 NotebookApp] Kernel shutdown: 90ac4f4d-72a7-4eaa-82c9-5f5d846641ff
+[I 21:08:19.187 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:08:19.217 NotebookApp] Saving file at /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[W 21:08:20.836 NotebookApp] Session not found: session_id='d8e31967-58ff-4e88-9ffd-6f0e72712b53'
+[W 21:08:20.836 NotebookApp] 404 DELETE /api/sessions/d8e31967-58ff-4e88-9ffd-6f0e72712b53 (::1) 1.67ms referer=http://localhost:8888/notebooks/Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:08:27.391 NotebookApp] Creating new notebook in /Scripts
+[I 21:08:28.139 NotebookApp] Kernel started: 71d16cf0-19c8-4eda-8487-5de44c875812
+[W 21:08:28.404 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.48ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 21:08:47.776 NotebookApp] Saving file at /Scripts/Basic_Pickes.ipynb
+[I 21:08:49.401 NotebookApp] Kernel shutdown: 71d16cf0-19c8-4eda-8487-5de44c875812
+[W 21:08:53.889 NotebookApp] delete /Scripts/Basic_Pickes.ipynb
+[W 21:08:53.892 NotebookApp] delete /Scripts/Pandas_SciKit-Learn_Kaggle_Submissions.ipynb
+[I 21:11:05.107 NotebookApp] Creating new notebook in /Scripts
+[I 21:11:06.163 NotebookApp] Kernel started: c2947a48-c276-4cf1-a7e6-df90f36b6892
+[W 21:11:06.168 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.38ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 21:13:06.165 NotebookApp] Saving file at /Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:15:06.160 NotebookApp] Saving file at /Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:16:57.116 NotebookApp] Saving file at /Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:17:05.764 NotebookApp] Kernel shutdown: c2947a48-c276-4cf1-a7e6-df90f36b6892
+[W 21:17:15.285 NotebookApp] delete /Scripts/kaggle_subbmission.csv
+[W 21:17:15.287 NotebookApp] delete /Scripts/kaggle_submission.csv
+[I 21:17:17.952 NotebookApp] Kernel started: d7c7cb60-ae8e-4a71-b654-85edfbab962c
+[W 21:17:18.014 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.65ms referer=http://localhost:8888/notebooks/Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:17:33.437 NotebookApp] Kernel restarted: d7c7cb60-ae8e-4a71-b654-85edfbab962c
+[I 21:17:45.291 NotebookApp] Saving file at /Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:17:47.872 NotebookApp] Kernel shutdown: d7c7cb60-ae8e-4a71-b654-85edfbab962c
+[I 21:18:06.681 NotebookApp] Kernel started: 7e55c0a9-2d11-4dee-9bbf-2fcca36cc2bc
+[W 21:18:06.874 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.14ms referer=http://localhost:8888/notebooks/Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:19:02.567 NotebookApp] Kernel restarted: 7e55c0a9-2d11-4dee-9bbf-2fcca36cc2bc
+[W 21:19:40.953 NotebookApp] delete /Scripts/kaggle_subbmission.csv
+[W 21:19:40.956 NotebookApp] delete /Scripts/train.pk1
+[I 21:20:00.240 NotebookApp] Creating new directory in /Scripts
+[I 21:20:07.553 NotebookApp] Saving file at /Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[W 21:20:36.768 NotebookApp] delete /Scripts/train.pk1
+[I 21:21:43.287 NotebookApp] Saving file at /Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 21:21:46.660 NotebookApp] Kernel shutdown: 7e55c0a9-2d11-4dee-9bbf-2fcca36cc2bc
+[W 21:21:52.020 NotebookApp] /Users/daniel.tomes/Documents/Dev/learningPython/Scripts/output/train.pk1 is not UTF-8 encoded
+[W 21:21:52.020 NotebookApp] 400 GET /api/contents/Scripts/output/train.pk1?type=file&format=text&_=1487384511769 (::1) 1.50ms referer=http://localhost:8888/edit/Scripts/output/train.pk1
