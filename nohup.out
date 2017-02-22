@@ -187,3 +187,278 @@
 [I 21:21:46.660 NotebookApp] Kernel shutdown: 7e55c0a9-2d11-4dee-9bbf-2fcca36cc2bc
 [W 21:21:52.020 NotebookApp] /Users/daniel.tomes/Documents/Dev/learningPython/Scripts/output/train.pk1 is not UTF-8 encoded
 [W 21:21:52.020 NotebookApp] 400 GET /api/contents/Scripts/output/train.pk1?type=file&format=text&_=1487384511769 (::1) 1.50ms referer=http://localhost:8888/edit/Scripts/output/train.pk1
+[I 09:47:51.917 NotebookApp] Kernel shutdown: 96aecd48-d40a-4ba4-8335-4fcc80efc254
+[C 09:48:07.678 NotebookApp] received signal 15, stopping
+[I 09:48:07.693 NotebookApp] Shutting down kernels
+[I 15:49:15.902 NotebookApp] Serving notebooks from local directory: /Users/daniel.tomes/Documents/Dev/learningPython
+[I 15:49:15.904 NotebookApp] 0 active kernels 
+[I 15:49:15.904 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=45f6d6edc10220ff5680f0cdce4f968c9aa4391dead6c729
+[I 15:49:15.905 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:49:15.909 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=45f6d6edc10220ff5680f0cdce4f968c9aa4391dead6c729
+[I 15:49:16.291 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 15:49:41.076 NotebookApp] Creating new directory in /Scripts
+[I 15:50:17.315 NotebookApp] Creating new directory in /Scripts
+[I 15:50:39.673 NotebookApp] Creating new notebook in /Scripts/ML_Decision_Tree
+[I 15:50:40.603 NotebookApp] Kernel started: 3c125ef8-45f4-43c4-b905-1640edcff48c
+[W 15:50:40.617 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 10.68ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/Untitled.ipynb?kernel_name=python3
+[I 15:52:40.575 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Decision_Tree.ipynb
+[I 15:54:40.570 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Decision_Tree_Minimal.ipynb
+[I 15:54:49.043 NotebookApp] Kernel shutdown: 3c125ef8-45f4-43c4-b905-1640edcff48c
+[I 15:55:00.163 NotebookApp] Creating new notebook in /Scripts/ML_Decision_Tree
+[I 15:55:01.298 NotebookApp] Kernel started: 42059299-2d28-4bf3-ab27-0f16440873e2
+[W 15:55:01.301 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.85ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/Untitled.ipynb?kernel_name=python3
+[I 15:57:01.294 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 15:59:01.290 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:01:01.285 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:03:01.282 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:05:01.278 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:07:01.275 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:07:21.928 NotebookApp] Kernel restarted: 42059299-2d28-4bf3-ab27-0f16440873e2
+[I 16:09:01.271 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:11:01.267 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 16:27:01.236 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:23:01.132 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:25:01.125 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:27:01.121 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:29:01.117 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:31:01.111 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:35:01.103 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:35:59.251 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Sentiment_Lexicon_Intro.ipynb
+[I 17:36:01.782 NotebookApp] Kernel shutdown: 42059299-2d28-4bf3-ab27-0f16440873e2
+[I 17:37:48.932 NotebookApp] Creating new notebook in /Scripts/ML_Decision_Tree
+[I 17:37:50.121 NotebookApp] Kernel started: 571b3d43-6786-47a2-b966-2625ce142d74
+[W 17:37:50.126 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.58ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/Untitled.ipynb?kernel_name=python3
+[I 17:39:50.117 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 17:41:50.114 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 17:43:50.110 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 17:53:50.091 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 17:55:50.085 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 17:57:50.081 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 18:01:50.076 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 18:03:50.072 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 18:05:50.067 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/Untitled.ipynb
+[I 18:07:50.066 NotebookApp] Saving file at /Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[W 18:14:50.491 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.33ms referer=http://localhost:8888/notebooks/Scripts/Pandas_Selecting_Datasets.ipynb
+[I 18:14:50.934 NotebookApp] Kernel started: 36806593-346c-4e2a-a0df-d6ac70a09946
+[W 18:15:50.047 NotebookApp] No such file or directory: Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[W 18:15:50.048 NotebookApp] 404 GET /api/contents/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb?content=0&_=1487716669526 (::1) 1.26ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:15:50.054 NotebookApp] Uploading file to /Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[E 18:15:50.057 NotebookApp] Error while saving file: Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb [Errno 2] No such file or directory: '/Users/daniel.tomes/Documents/Dev/learningPython/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb'
+    Traceback (most recent call last):
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 396, in save
+        self._save_notebook(os_path, nb)
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 254, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+        return next(self.gen)
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 188, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+        return next(self.gen)
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 80, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/daniel.tomes/Documents/Dev/learningPython/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb'
+[W 18:15:50.062 NotebookApp] Unexpected error while saving file: Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb [Errno 2] No such file or directory: '/Users/daniel.tomes/Documents/Dev/learningPython/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb'
+[E 18:15:50.062 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "4341",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|c124bce3|565f75850dfb7e9ae18ee3aa8eb11e65|1487171136",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "Content-Type": "application/json",
+      "Referer": "http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb",
+      "Accept-Encoding": "gzip, deflate, sdch, br",
+      "Accept-Language": "en-US,en;q=0.8",
+      "Cookie": "_xsrf=2|c124bce3|565f75850dfb7e9ae18ee3aa8eb11e65|1487171136; username-localhost-8888=\"2|1:0|10:1487710156|23:username-localhost-8888|44:MjA2N2RjOTk1NTNmNGRjY2EyODJkOWVhMjE3YmI0NzU=|3d56e9dc2e9de8ccbc111aec3ce367d956d9e649038179b65ffadc910ae67994\""
+    }
+[E 18:15:50.062 NotebookApp] 500 PUT /api/contents/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb (::1) 8.85ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:15:58.278 NotebookApp] Kernel shutdown: 571b3d43-6786-47a2-b966-2625ce142d74
+[W 18:16:03.916 NotebookApp] No such file or directory: Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[W 18:16:03.917 NotebookApp] 404 GET /api/contents/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb?content=0&_=1487716669527 (::1) 1.16ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:16:03.922 NotebookApp] Uploading file to /Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[E 18:16:03.925 NotebookApp] Error while saving file: Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb [Errno 2] No such file or directory: '/Users/daniel.tomes/Documents/Dev/learningPython/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb'
+    Traceback (most recent call last):
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 396, in save
+        self._save_notebook(os_path, nb)
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 254, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+        return next(self.gen)
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 188, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+        return next(self.gen)
+      File "/Users/daniel.tomes/Documents/Dev/learningPython/venv/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 80, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/daniel.tomes/Documents/Dev/learningPython/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb'
+[W 18:16:03.925 NotebookApp] Unexpected error while saving file: Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb [Errno 2] No such file or directory: '/Users/daniel.tomes/Documents/Dev/learningPython/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb'
+[E 18:16:03.926 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "4341",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|c124bce3|565f75850dfb7e9ae18ee3aa8eb11e65|1487171136",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "Content-Type": "application/json",
+      "Referer": "http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb",
+      "Accept-Encoding": "gzip, deflate, sdch, br",
+      "Accept-Language": "en-US,en;q=0.8",
+      "Cookie": "_xsrf=2|c124bce3|565f75850dfb7e9ae18ee3aa8eb11e65|1487171136; username-localhost-8888=\"2|1:0|10:1487710156|23:username-localhost-8888|44:MjA2N2RjOTk1NTNmNGRjY2EyODJkOWVhMjE3YmI0NzU=|3d56e9dc2e9de8ccbc111aec3ce367d956d9e649038179b65ffadc910ae67994\""
+    }
+[E 18:16:03.926 NotebookApp] 500 PUT /api/contents/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb (::1) 4.84ms referer=http://localhost:8888/notebooks/Scripts/ML_Decision_Tree/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[W 18:16:09.433 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.33ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:16:09.626 NotebookApp] Kernel started: 1c739a0a-d680-4508-b28f-5cfbab270c48
+[I 18:18:10.664 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:18:28.513 NotebookApp] Kernel started: 5ebc88c1-3b3e-40df-b6ed-fb513c6ed60e
+[W 18:18:28.630 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.71ms referer=http://localhost:8888/notebooks/Scripts/General_Notes.ipynb
+[I 18:22:10.653 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:24:10.647 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:26:10.642 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:28:10.638 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:30:10.636 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:32:10.631 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:38:10.618 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:40:10.617 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:42:10.611 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:44:10.608 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:46:10.608 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:48:10.600 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:50:10.596 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:52:10.592 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:54:10.588 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:56:10.586 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 18:57:59.879 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 07:57:33.038 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Movielens_Movie_Recommendations_WARP_Simple.ipynb
+[I 09:49:54.266 NotebookApp] Kernel shutdown: 1c739a0a-d680-4508-b28f-5cfbab270c48
+[I 09:50:17.140 NotebookApp] Creating new notebook in /Scripts
+[I 09:50:18.126 NotebookApp] Kernel started: 393f9c94-2e25-49b0-9def-d662440fad15
+[W 09:50:18.132 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 3.00ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 09:52:18.302 NotebookApp] Saving file at /Scripts/Untitled.ipynb
+[I 11:28:17.946 NotebookApp] Saving file at /Scripts/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:30:17.937 NotebookApp] Saving file at /Scripts/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:32:17.931 NotebookApp] Saving file at /Scripts/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:34:17.928 NotebookApp] Saving file at /Scripts/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:36:17.926 NotebookApp] Saving file at /Scripts/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:38:08.075 NotebookApp] Saving file at /Scripts/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:38:10.149 NotebookApp] Kernel shutdown: 393f9c94-2e25-49b0-9def-d662440fad15
+[W 11:39:34.854 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 3.40ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:39:35.005 NotebookApp] Kernel started: 9db27e40-3787-43dd-8f6b-b798757ef08c
+[I 11:41:35.005 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:43:34.996 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[W 11:46:02.318 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.95ms referer=http://localhost:8888/notebooks/Scripts/General_Notes.ipynb
+[W 11:46:34.293 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.16ms referer=http://localhost:8888/notebooks/Scripts/General_Notes.ipynb
+[I 11:53:31.402 NotebookApp] Kernel interrupted: 9db27e40-3787-43dd-8f6b-b798757ef08c
+[I 11:53:34.982 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:53:42.040 NotebookApp] Kernel restarted: 9db27e40-3787-43dd-8f6b-b798757ef08c
+[I 11:55:01.178 NotebookApp] Kernel interrupted: 9db27e40-3787-43dd-8f6b-b798757ef08c
+[I 11:55:09.650 NotebookApp] Kernel shutdown: 9db27e40-3787-43dd-8f6b-b798757ef08c
+[I 11:55:12.135 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:55:12.157 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[W 11:55:14.079 NotebookApp] Session not found: session_id='e0621e49-34ca-4fa7-825a-13f84a39d0b7'
+[W 11:55:14.080 NotebookApp] 404 DELETE /api/sessions/e0621e49-34ca-4fa7-825a-13f84a39d0b7 (::1) 1.42ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[W 11:55:23.011 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.59ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 11:55:23.175 NotebookApp] Kernel started: 051159c4-f997-4b3a-94b1-31a1329c5fc3
+[W 11:55:48.631 NotebookApp] Notebook Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb is not trusted
+[W 11:55:48.735 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.67ms referer=http://localhost:8888/notebooks/Scripts/Pandas_Scikit-Learn_Kaggle_Submissions.ipynb
+[I 11:55:49.181 NotebookApp] Kernel started: 9f0a2954-613a-429a-b0d1-51a628173e4a
+[I 11:55:59.117 NotebookApp] Kernel shutdown: 9f0a2954-613a-429a-b0d1-51a628173e4a
+[I 11:56:17.499 NotebookApp] Kernel started: bfd7da13-2a55-4b66-9a8f-07416ee6f92d
+[W 11:56:17.530 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.54ms referer=http://localhost:8888/notebooks/Scripts/Pandas_GroupBy.ipynb
+[I 11:57:23.181 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 12:15:24.039 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 12:19:24.029 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[I 13:01:20.015 NotebookApp] Creating new notebook in /Scripts/Pandas
+[I 13:01:20.846 NotebookApp] Kernel started: e7a01df2-e6c4-46f0-8086-572371943d72
+[W 13:01:20.870 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 3.29ms referer=http://localhost:8888/notebooks/Scripts/Pandas/Untitled.ipynb?kernel_name=python3
+[I 13:03:20.842 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:07:20.832 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:09:20.829 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:11:20.826 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:13:20.822 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:15:20.818 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:17:20.820 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars.ipynb
+[I 13:17:41.806 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Dummy_Vars_Boolean_Field_Combos.ipynb
+[I 13:17:43.728 NotebookApp] Kernel shutdown: e7a01df2-e6c4-46f0-8086-572371943d72
+[I 13:17:46.463 NotebookApp] Creating new notebook in /Scripts/Pandas
+[I 13:17:47.614 NotebookApp] Kernel started: 63a076e7-d824-4253-9225-c87619ace878
+[W 13:17:47.618 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.99ms referer=http://localhost:8888/notebooks/Scripts/Pandas/Untitled.ipynb?kernel_name=python3
+[I 13:17:59.854 NotebookApp] Saving file at /Scripts/Pandas/Pandas_Date_Time.ipynb
+[I 13:18:01.439 NotebookApp] Kernel shutdown: 63a076e7-d824-4253-9225-c87619ace878
+[W 13:18:13.800 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.82ms referer=http://localhost:8888/notebooks/Scripts/Exploring_Movies_IMDB.ipynb
+[I 13:18:14.128 NotebookApp] Kernel started: 3885c438-45a1-40d9-b8a2-1ef7d1e83de4
+[W 13:18:20.445 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.80ms referer=http://localhost:8888/notebooks/Scripts/Exploring_Movies_IMDB.ipynb
+[I 13:18:22.363 NotebookApp] Kernel shutdown: 3885c438-45a1-40d9-b8a2-1ef7d1e83de4
+[W 13:19:22.398 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.62ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Sentiment_Lexicon_Intro.ipynb
+[I 13:19:22.720 NotebookApp] Kernel started: 869647c2-3f45-4c5c-93d3-b9cc0b892d15
+[I 13:23:24.557 NotebookApp] Creating new notebook in /Scripts
+[I 13:23:25.474 NotebookApp] Kernel started: 4f36df75-f808-4cb1-9558-8e1bc732ace6
+[W 13:23:25.483 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 3.72ms referer=http://localhost:8888/notebooks/Scripts/Untitled.ipynb?kernel_name=python3
+[I 13:24:25.906 NotebookApp] Kernel shutdown: 4f36df75-f808-4cb1-9558-8e1bc732ace6
+[I 13:24:28.422 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[I 13:24:28.536 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[I 13:24:29.289 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[W 13:24:33.285 NotebookApp] Session not found: session_id='dc9def2b-e08b-4e20-b179-25f2d0bc4675'
+[W 13:24:33.286 NotebookApp] 404 DELETE /api/sessions/dc9def2b-e08b-4e20-b179-25f2d0bc4675 (::1) 1.54ms referer=http://localhost:8888/notebooks/Scripts/Scratch.ipynb
+[I 13:25:24.215 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Sentiment_Lexicon_Intro.ipynb
+[I 13:26:41.693 NotebookApp] Kernel shutdown: 869647c2-3f45-4c5c-93d3-b9cc0b892d15
+[I 13:26:46.263 NotebookApp] Kernel started: a12f6e8d-b2fc-433d-b86a-9367cc717aab
+[W 13:26:46.268 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.66ms referer=http://localhost:8888/notebooks/Scripts/Scratch.ipynb
+[I 13:27:14.803 NotebookApp] Kernel shutdown: a12f6e8d-b2fc-433d-b86a-9367cc717aab
+[I 13:27:16.829 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[I 13:27:16.980 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[I 13:27:17.106 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[W 13:27:21.743 NotebookApp] Session not found: session_id='1ddd1141-d941-49df-9fc1-19686d3782fa'
+[W 13:27:21.744 NotebookApp] 404 DELETE /api/sessions/1ddd1141-d941-49df-9fc1-19686d3782fa (::1) 1.33ms referer=http://localhost:8888/notebooks/Scripts/Scratch.ipynb
+[I 13:27:23.950 NotebookApp] Kernel started: e29d50eb-312f-48cd-a958-a86ca3b2682d
+[W 13:27:23.956 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.03ms referer=http://localhost:8888/notebooks/Scripts/Scratch.ipynb
+[I 13:27:28.050 NotebookApp] Kernel shutdown: e29d50eb-312f-48cd-a958-a86ca3b2682d
+[W 13:27:44.735 NotebookApp] None
+[W 13:27:44.735 NotebookApp] 403 DELETE /api/sessions/8ec4127e-bf55-41dd-8f72-10adf9943b3e (::1) 1.58ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Stock_Predictions_SVR_Basic.ipynb
+[C 13:28:16.330 NotebookApp] received signal 15, stopping
+[I 13:28:16.341 NotebookApp] Shutting down kernels
+[I 13:28:16.856 NotebookApp] Kernel shutdown: 36806593-346c-4e2a-a0df-d6ac70a09946
+[I 13:28:16.857 NotebookApp] Kernel shutdown: 5ebc88c1-3b3e-40df-b6ed-fb513c6ed60e
+[I 13:28:17.923 NotebookApp] Kernel shutdown: 051159c4-f997-4b3a-94b1-31a1329c5fc3
+[I 13:28:17.925 NotebookApp] Kernel shutdown: bfd7da13-2a55-4b66-9a8f-07416ee6f92d
+[I 13:28:43.563 NotebookApp] Serving notebooks from local directory: /Users/daniel.tomes/Documents/Dev/learningPython
+[I 13:28:43.564 NotebookApp] 0 active kernels 
+[I 13:28:43.564 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=a5f458a8a7e9222c84ecae4221c434ca8fa521497e6857ea
+[I 13:28:43.564 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:28:43.564 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a5f458a8a7e9222c84ecae4221c434ca8fa521497e6857ea
+[I 13:28:43.958 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 13:28:50.344 NotebookApp] Kernel started: 09e238b1-5cfe-4419-8ea7-0392e95c1ea3
+[W 13:28:50.436 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 12.79ms referer=http://localhost:8888/notebooks/Scripts/Scratch.ipynb
+[C 13:29:11.679 NotebookApp] received signal 15, stopping
+[I 13:29:11.681 NotebookApp] Shutting down kernels
+[I 13:29:12.095 NotebookApp] Kernel shutdown: 09e238b1-5cfe-4419-8ea7-0392e95c1ea3
+[I 13:29:34.308 NotebookApp] Serving notebooks from local directory: /Users/daniel.tomes/Documents/Dev/learningPython
+[I 13:29:34.308 NotebookApp] 0 active kernels 
+[I 13:29:34.308 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=211d42c753200adcb610e25301414b3e43c064f99442918e
+[I 13:29:34.308 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:29:34.309 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=211d42c753200adcb610e25301414b3e43c064f99442918e
+[I 13:29:34.688 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 13:29:41.112 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 7.73ms referer=http://localhost:8888/notebooks/Scripts/Scratch.ipynb
+[I 13:29:41.213 NotebookApp] Kernel started: f57685e8-e460-4381-b180-49182aa7099f
+[I 13:29:54.968 NotebookApp] Saving file at /Scripts/Scratch.ipynb
+[I 13:30:07.568 NotebookApp] Kernel started: ffd1e139-ff50-4a10-8288-2246bc157da9
+[W 13:30:07.585 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.16ms referer=http://localhost:8888/notebooks/Scripts/ML_Simple_Examples/ML_Sentiment_Lexicon_Intro.ipynb
+[I 13:32:07.570 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Sentiment_Lexicon_Intro.ipynb
+[I 13:32:26.724 NotebookApp] Saving file at /Scripts/ML_Simple_Examples/ML_Sentiment_Lexicon_Intro.ipynb
+[I 13:32:28.959 NotebookApp] Kernel shutdown: ffd1e139-ff50-4a10-8288-2246bc157da9
